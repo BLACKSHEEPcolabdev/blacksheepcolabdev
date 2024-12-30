@@ -4,7 +4,7 @@
 Instruções para a adição deste repo:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/repo_icon.png" alt="Imagem do Add-on" width="300">
+  <img src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/file-78LtfiQtw7d3qbxqXTCBhU.png" alt="Imagem do Add-on" width="400">
   <ul>
     <li>1. Acesse o Gerenciador de Arquivos no Kodi:</li>
     <ul>
