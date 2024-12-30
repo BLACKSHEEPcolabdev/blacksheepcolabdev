@@ -4,6 +4,7 @@
 Instruções para a adição deste repo:
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagem-do-addon.png" alt="Imagem do Add-on" width="400">
   <ul>
     <li>1. Acesse o Gerenciador de Arquivos no Kodi:</li>
     <ul>
